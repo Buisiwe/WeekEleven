@@ -1,0 +1,12 @@
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\bin\Debug\net5.0\Market.deps.json
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\bin\Debug\net5.0\Market.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\bin\Debug\net5.0\ref\Market.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\bin\Debug\net5.0\Market.pdb
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.csproj.AssemblyReference.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.AssemblyInfoInputs.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.AssemblyInfo.cs
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.csproj.CoreCompileInputs.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\ref\Market.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Market\obj\Debug\net5.0\Market.pdb

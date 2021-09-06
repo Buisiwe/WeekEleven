@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Customer/1.0.0": {
+        "dependencies": {
+          "Market": "1.0.0",
+          "Storages": "1.0.0"
+        },
+        "runtime": {
+          "Customer.dll": {}
+        }
+      },
+      "Market/1.0.0": {
+        "runtime": {
+          "Market.dll": {}
+        }
+      },
+      "Storages/1.0.0": {
+        "runtime": {
+          "Storages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Market/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Storages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

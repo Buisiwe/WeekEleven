@@ -1,0 +1,6 @@
+boy       |      mat       |      boy@user.com       |      Boy@3
+nunu       |      nunza       |      nun@user.com       |      Nunza@12
+nuls       |      nula       |      nulsa@user.com       |      Nulas
+busi       |      mat       |      mat@user.com       |      Busi@30
+mpho       |      lukes       |      mpho@user.com       |      Lukes@32
+mpho       |      matee       |      mpho@user.com       |      Mpho#32

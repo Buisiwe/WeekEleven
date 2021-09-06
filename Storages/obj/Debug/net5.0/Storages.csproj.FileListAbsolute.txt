@@ -1,0 +1,12 @@
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\bin\Debug\net5.0\Storages.deps.json
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\bin\Debug\net5.0\Storages.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\bin\Debug\net5.0\ref\Storages.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\bin\Debug\net5.0\Storages.pdb
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.csproj.AssemblyReference.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.AssemblyInfoInputs.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.AssemblyInfo.cs
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.csproj.CoreCompileInputs.cache
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\ref\Storages.dll
+C:\Users\buisi\OneDrive\Documents\WeekEleven\Storages\obj\Debug\net5.0\Storages.pdb
