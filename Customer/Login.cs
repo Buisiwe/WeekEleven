@@ -1,6 +1,9 @@
 using System;
-using System.IO;
 using Market;
+using System.IO;
+using System.Text;
+using System.Collections.Generic;
+using System.Text.RegularExpressions;
 namespace Customer
 {
     public class Login: Customers
@@ -36,16 +39,47 @@ namespace Customer
             if (!UserExist)
             {
                  
-                Console.WriteLine("User doesn't exist");
+                Console.WriteLine("User doesn't exist match match");
                 sr.Close();
                 //if the Boolean variable is still false the user didn't exist, otherwise register
-                CustomerInterface.RegisterUserInput();
+               // CustomerInterface.RegisterUserInput();
+                StoreInterface.MarketDisplay();
                
             }
             
             }
+        }
             
+
+        public static void StoFile(string key)
+        {
+
+            //Writing elements to the Stores list text file
+            try
+            {
+
+                using (StreamWriter writer = new StreamWriter(@"c:StoresList.txt", true))
+                {
+
+                    writer.WriteLine(key);
+                    string text = File.ReadAllText(@"c:StoresList.txt");
+                    string result = Regex.Replace(text, @"(^\p{Zs}*\r\n){2,}", "\r\n", RegexOptions.Multiline);
+                    File.WriteAllText(@"c:StoresList.txt", result);
+                    writer.Close();
+                    writer.Dispose();
+                }
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Store successfully added!");
+            }
+
+        }
 
         }
     }
-}

@@ -13,6 +13,8 @@ namespace Customer
             System.Console.WriteLine("---------------------------------------------------------------------");
             
             StoreInterface.Display();
+            
+
         }
     }
 }

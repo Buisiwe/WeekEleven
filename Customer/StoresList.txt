@@ -1,0 +1,4 @@
+Pick n' Pay       |      Groceries       |      10 kg maize
+Checkers       |      grocery       |      2L oil
+Bee Fast Food       |      kiosk       |      200
+Maria Spaza       |      Kiosk       |      Milk

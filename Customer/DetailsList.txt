@@ -1,0 +1,21 @@
+Pick n' Pay       |      Groceries       |      10 kg maize	boy       |      mat       |      boy@user.com       |      Boy@3
+Pick n' Pay       |      Groceries       |      10 kg maize	nunu       |      nunza       |      nun@user.com       |      Nunza@12
+Pick n' Pay       |      Groceries       |      10 kg maize	nuls       |      nula       |      nulsa@user.com       |      Nulas
+Pick n' Pay       |      Groceries       |      10 kg maize	busi       |      mat       |      mat@user.com       |      Busi@30
+Pick n' Pay       |      Groceries       |      10 kg maize	mpho       |      lukes       |      mpho@user.com       |      Lukes@32
+Pick n' Pay       |      Groceries       |      10 kg maize	mpho       |      matee       |      mpho@user.com       |      Mpho#32
+Pick n' Pay       |      Groceries       |      10 kg maize	joy       |      uche       |      joy@user.com       |      Joy
+Checkers       |      grocery       |      2L oil	boy       |      mat       |      boy@user.com       |      Boy@3
+Checkers       |      grocery       |      2L oil	nunu       |      nunza       |      nun@user.com       |      Nunza@12
+Checkers       |      grocery       |      2L oil	nuls       |      nula       |      nulsa@user.com       |      Nulas
+Checkers       |      grocery       |      2L oil	busi       |      mat       |      mat@user.com       |      Busi@30
+Checkers       |      grocery       |      2L oil	mpho       |      lukes       |      mpho@user.com       |      Lukes@32
+Checkers       |      grocery       |      2L oil	mpho       |      matee       |      mpho@user.com       |      Mpho#32
+Checkers       |      grocery       |      2L oil	joy       |      uche       |      joy@user.com       |      Joy
+Bee Fast Food       |      kiosk       |      200	boy       |      mat       |      boy@user.com       |      Boy@3
+Bee Fast Food       |      kiosk       |      200	nunu       |      nunza       |      nun@user.com       |      Nunza@12
+Bee Fast Food       |      kiosk       |      200	nuls       |      nula       |      nulsa@user.com       |      Nulas
+Bee Fast Food       |      kiosk       |      200	busi       |      mat       |      mat@user.com       |      Busi@30
+Bee Fast Food       |      kiosk       |      200	mpho       |      lukes       |      mpho@user.com       |      Lukes@32
+Bee Fast Food       |      kiosk       |      200	mpho       |      matee       |      mpho@user.com       |      Mpho#32
+Bee Fast Food       |      kiosk       |      200	joy       |      uche       |      joy@user.com       |      Joy
